@@ -4,9 +4,9 @@
 ![](https://img.shields.io/github/issues-closed/Z4nzu/hackingtool)
 ![](https://img.shields.io/badge/Python-3-blue)
 ![](https://img.shields.io/github/forks/Z4nzu/hackingtool)
-![](ht tps://img.shields.io/github/stars/Z4nzu/hackingtool)
+![](https://img.shields.io/github/stars/Z4nzu/hackingtool)
 ![](https://img.shields.io/github/last-commit/Z4nzu/hackingtool)
-[![HitCount](http://hits.dwyl.com/Z4nzu/hackingtool.svg)](http://hits.dwyl.com/Z4nzu/hackingtool)
+[![](http://hits.dwyl.com/Z4nzu/hackingtool.svg)](http://hits.dwyl.com/Z4nzu/hackingtool)
 ![](https://img.shields.io/badge/platform-Linux%20%7C%20KaliLinux%20%7C%20ParrotOs-blue)
 
 #### Cara menjalankan Kali Linux CLI di Windows 10 tanpa menjalankan VM [YOUTUBE](https://youtu.be/BsFhpIDcd9I)
@@ -32,7 +32,7 @@
 
 #### ALAT INI HARUS DIJALANKAN SEBAGAI ROOT!!! jalankan perintah berikut ini SATU PER SATU
 
-git clone https://github.com/Z4nzu/hackingtool.git
+git clone https://github.com/RezaMahendra21/Hacking-Tool.git
 
 chmod -R 755 hackingtool
 
