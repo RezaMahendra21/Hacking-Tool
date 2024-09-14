@@ -9,6 +9,9 @@
 [![](http://hits.dwyl.com/Z4nzu/hackingtool.svg)](http://hits.dwyl.com/Z4nzu/hackingtool)
 ![](https://img.shields.io/badge/platform-Linux%20%7C%20KaliLinux%20%7C%20ParrotOs-blue)
 
+### PERHATIAN
+Tool peretasan ini bukan saya yang membuat, ini didapat dari <b>[ Z4nzu ]</b>. Saran saya jangan digunakan tool ini untuk kejahatan sampai merugikan orang lain, akan tetapi gunakanlah sebagai pelajaran untuk mengetahui celah keamanan kita supaya kita bisa mengamankan keamanan jaringan kita dan belajar bagaimana seandainya kita menghadapi masalah apabila kita terkena tool hacking ini.
+
 #### Cara menjalankan Kali Linux CLI di Windows 10 tanpa menjalankan VM [YOUTUBE](https://youtu.be/BsFhpIDcd9I)
 
 ## Pembaruan tersedia V1.1.0 🚀
@@ -28,7 +31,7 @@
 ![](https://github.com/Z4nzu/hackingtool/blob/master/images/A2.png)
 ![](https://github.com/Z4nzu/hackingtool/blob/master/images/A4.png)
 
-## Panduan instalasi untuk Linux <img src="https://konpa.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="25" height="25"/></p><p align="center">
+## Panduan instalasi untuk Linux 
 
 #### ALAT INI HARUS DIJALANKAN SEBAGAI ROOT!!! jalankan perintah berikut ini SATU PER SATU
 
@@ -62,7 +65,4 @@ Setelah semua langkah selesai, jalankan perintah berikut ---> **root@kaliLinux:~
 ##### Jika alat favorit Anda tidak disertakan, atau Anda memiliki saran, silakan [KLIK DI SINI](https://forms.gle/b235JoCKyUq5iM3t8)
 ![Statistik github Z4nzu](https://github-readme-stats.vercel.app/api?username=Z4nzu&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-<a href="https://www.buymeacoffee.com/Zinzu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/arial-yellow.png" alt="Belikan Saya Kopi" style="height: 50px !important;width: 50px !important;"></a>
-
-#### Jangan lupa bagikan alat ini dengan teman-teman Anda!
 #### Terima kasih!!!
